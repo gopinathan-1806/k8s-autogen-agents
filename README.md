@@ -128,3 +128,8 @@ outputs/
 ## Important
 
 This is a learning/buildathon project. It does not connect to a live Kubernetes cluster. The web-search agent provides current web information, while the first agent provides an LLM-knowledge perspective.
+
+## Flow
+
+<img width="1225" height="1284" alt="k8s autogeb agent" src="https://github.com/user-attachments/assets/84d4c01e-e81f-40b7-99ac-99b9b9319967" />
+
