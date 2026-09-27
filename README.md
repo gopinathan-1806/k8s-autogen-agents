@@ -133,3 +133,8 @@ This is a learning/buildathon project. It does not connect to a live Kubernetes 
 
 <img width="1225" height="1284" alt="k8s autogeb agent" src="https://github.com/user-attachments/assets/84d4c01e-e81f-40b7-99ac-99b9b9319967" />
 
+## UI
+
+<img width="1492" height="881" alt="image" src="https://github.com/user-attachments/assets/18d2cd1d-7dad-453d-a3cb-a43b978742bd" />
+
+
